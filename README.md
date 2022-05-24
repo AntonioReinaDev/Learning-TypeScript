@@ -1,2 +1,3 @@
-# Learning-TypeScript
- 
+# TypeScript
+
+## More details coming soon
