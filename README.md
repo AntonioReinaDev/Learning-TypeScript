@@ -7,6 +7,7 @@ TypeScript is an open source programming language developed by Microsoft. It is 
 ## To use this project you need:
 
 * [Visual Studo Code](https://code.visualstudio.com/)
+* [node.js](https://nodejs.org/en/)
 * [npm](https://www.npmjs.com/)
 * [lite-server](https://www.npmjs.com/package/lite-server)
 * [typescript](https://www.typescriptlang.org/download)
