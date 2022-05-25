@@ -1,4 +1,5 @@
 <hr>
+
 # Learning TypeScript
 
 ## What is TypeScript?
