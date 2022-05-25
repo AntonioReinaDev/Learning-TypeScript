@@ -20,18 +20,18 @@ Open unzipped project folder in VS Code
 
 Open the terminal in VS Code and select the Command Prompt and type the following commands:
 
->`npm init`
+>**`npm init`**
 >>It is not necessary to make changes to **`npm init`**.
 Press **ENTER** to continue and finish the setup.
 >
 >**`npm install --save-dev typescript`**
-**`npm install lite-server`**
-**`tsc --init`**
+>**`npm install lite-server`**
+>**`tsc --init`**
 
 ## To start the project:
 
->**`npm start`
-`npm run watch`**
+>**`npm start`**
+>**`npm run watch`**
 
 To test the files in the **EXAMPLES** folder, just reference them in the **index.html** file in the **src** tag inside the **script**, as shown in the example below.
 
