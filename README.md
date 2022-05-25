@@ -24,9 +24,9 @@ Open the terminal in VS Code and select the Command Prompt and type the followin
 >>It is not necessary to make changes to **`npm init`**.
 Press **ENTER** to continue and finish the setup.
 >
->**`npm install --save-dev typescript`
-`npm install lite-server`
-`tsc --init`**
+>**`npm install --save-dev typescript`**
+**`npm install lite-server`**
+**`tsc --init`**
 
 ## To start the project:
 
